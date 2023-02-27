@@ -1,0 +1,19 @@
+PADARIA: - Bakery 
+
+- FUNCIONARIO - Employee
+(RG, NomeCompleto, DataDeNascimento )
+
+- Produtos - Products 
+(NomeDoProduto, DataDeProdução, DataDeValidade)
+
+- Clientes -
+(RG, NomeCompleto, DataDeNascimento)
+
+
+
+- pequena monta
+- funcionamento/atendimento presencial
+- envolva poucas entidades
+- possa ser desenvolvido usando Python e Banco de Dados Relacional
+- envolva operações como (por exemplo): cadastro de clientes, cadastro de fornecedores, cadastro de produtos ou bens, estoque, aluguel ou venda
+
