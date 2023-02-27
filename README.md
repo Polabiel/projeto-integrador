@@ -12,11 +12,29 @@
 
 ## 💻 Pré-requisitos
 
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
-<!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
-* Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
-* Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
-* Você leu `<https://github.com/Polabiel/projeto-integrador/wiki>`.
+1. Montar um time de 4 estudantes. 
+2. Discutir com o time ideias para soluções computacionais para pequenos empreendimentos/instituições, com as seguintes características:
+- pequena monta
+- funcionamento/atendimento presencial
+- envolva poucas entidades
+- possa ser desenvolvido usando Python e Banco de Dados Relacional
+- envolva operações como (por exemplo): cadastro de clientes, cadastro de fornecedores, cadastro de produtos ou bens, estoque, aluguel ou venda
+3. Algumas ideias de base:
+- biblioteca
+- loja de roupas e sapatos
+- loja de materiais de construção
+- venda / locação de veículos
+- hotel / pousada
+- academia
+- ônibus intermunicipais
+- cabeleireiro / barbeiro / clínica de estética
+- clínica médica / dentária
+- laboratório de exames médicos
+- imobiliária
+- padaria
+- controle de horários de aula de uma escola
+- tratamento de imagens
+- bar / restaurante
 
 ## 🤝 Colaboradores
 
