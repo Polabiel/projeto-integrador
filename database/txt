@@ -4,7 +4,7 @@ PADARIA: - Bakery
 (RG, NomeCompleto, DataDeNascimento )
 
 - Produtos - Products 
-(NomeDoProduto, DataDeProdução, DataDeValidade)
+(NomeDoProduto, DataDeProdução, DataDeValidade, Preço)
 
 - Clientes -
 (RG, NomeCompleto, DataDeNascimento)
